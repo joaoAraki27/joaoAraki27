@@ -1,65 +1,54 @@
-# 👋 Olá, eu sou João Vitor
+# Hey! 👋 I'm João Victor Araki Cunha
 
-🚀 Desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas, eficientes e escaláveis.
+Full Stack Developer graduated from **Code Chrysalis** (Tokyo, Japan). Currently pursuing a degree in **Systems Analysis and Development** at UNIFEV. Passionate about building web applications and always looking to grow as a developer.
 
----
-
-## 💡 Sobre mim
-
-* 🎯 Focado em evolução constante como desenvolvedor
-* 📚 Sempre estudando e buscando melhorar minhas habilidades
-* ⚡ Gosto de transformar ideias em produtos reais
-* 💻 Experiência com desenvolvimento web e mobile
+🌍 Based in Votuporanga, SP - Brazil  
+🗣️ Portuguese (Native) / English (Advanced) / Japanese (Basic)  
+🎓 Code Chrysalis Bootcamp (Tokyo, 2024) | ADS - UNIFEV (In Progress)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Tech Stack
 
-### 🔹 Linguagens
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* Python
-* JavaScript
-* Golang
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔹 Frontend
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* HTML
-* CSS
-* React
+**Database & ORM:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🔹 Backend
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-* Node.js
-* Express
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 Em breve... (adicione aqui seus melhores projetos)
+**Real-time:**  
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
-## 📫 Contato
+## 💛 Still Learning
 
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-* 💼 LinkedIn: [https://linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-
----
-
-## ⚡ Frase que me define
-
-> "Disciplina e consistência superam talento." 🔥
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-⭐ Se você gostou do meu perfil, não esqueça de dar uma olhada nos meus repositórios!
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-araki-a3b755318)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoarakicunha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoAraki27)
