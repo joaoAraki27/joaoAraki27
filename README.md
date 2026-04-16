@@ -2,7 +2,6 @@
 
 Full Stack Developer graduated from **Code Chrysalis** (Tokyo, Japan). Currently pursuing a degree in **Systems Analysis and Development** at UNIFEV. Passionate about building web applications and always looking to grow as a developer.
 
-🌍 Based in Votuporanga, SP - Brazil  
 🗣️ Portuguese (Native) / English (Advanced) / Japanese (Basic)  
 🎓 Code Chrysalis Bootcamp (Tokyo, 2024) | ADS - UNIFEV (In Progress)
 
